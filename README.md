@@ -73,7 +73,7 @@ $ npm install mongoose-paginate
 
 ## Configuração MongoDB
 
-Para crianção do banco de Dados utilizei o site mLab que oferece gratuitamente (com algumas limitações) a criação do banco.
+Para criação do banco de dados utilizei o site mLab que oferece gratuitamente (com algumas limitações) o MongoDB.
 https://mlab.com/
 
 Path: server.js
