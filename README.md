@@ -2,6 +2,9 @@
 
 > API construido com Mongoose + Cors + Express
 
+##Instalação
+$ git clone https://github.com/willianpassarelli/API-NodeJS.git
+
 ## Exemplo de uso
 
 API simples feita em MVC, no controller foi criado um CRUD de criação de Produtos, para testes utilizei o Insomnia.
