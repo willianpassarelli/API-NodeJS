@@ -2,8 +2,10 @@
 
 > API construido com Mongoose + Cors + Express
 
-##Instalação
+## Instalação
+```
 $ git clone https://github.com/willianpassarelli/API-NodeJS.git
+```
 
 ## Exemplo de uso
 
