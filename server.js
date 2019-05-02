@@ -8,8 +8,8 @@ const app = express();
 app.use(express.json());
 app.use(cors());
 
-// Iniciando o DB
-mongoose.connect("mongodb://admin:wp122146@ds121636.mlab.com:21636/dividindoap", {
+// Iniciando o DB, no parametro abaixo colocar o caminho com usuario e senha do banco (MongoDB)
+mongoose.connect("mongodb://", {
   useNewUrlParser: true
 });
 requireDir("./src/models");
