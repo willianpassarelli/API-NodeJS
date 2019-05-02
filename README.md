@@ -92,6 +92,3 @@ mongoose.connect("mongodb://admin:user@password.mlab.com:21636/namedb", {
 ## Rodando a Aplicação
 
 ### `npm start`
-
-Executa o aplicativo no modo de desenvolvimento. <br>
-Será aberto [http://localhost:3000](http://localhost:3000) para visualizá-lo no navegador.
