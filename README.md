@@ -9,25 +9,25 @@ API simples feita em MVC, no controller foi criado um CRUD de criação de Produ
 > Para listar os produtos utilizei paginação da biblioteca mongoose-paginate
 ```
 GET:
-{{ baseUrl  }}/products?page=1
+{{ baseUrl }}/products?page=1
 ```
 
 > Para exibir um produto pelo ID
 ```
 GET:
-{{ baseUrl  }}/products/idDoProduto
+{{ baseUrl }}/products/idDoProduto
 ```
 
 > Para deletar um produto
 ```
 DELETE:
-{{ baseUrl  }}/products/idDoProduto
+{{ baseUrl }}/products/idDoProduto
 
 ```
 > Para efetuar update
 ```
 PUT:
-{{ baseUrl  }}/products/idDoProduto
+{{ baseUrl }}/products/idDoProduto
 ```
 ```
 {
@@ -38,7 +38,7 @@ PUT:
 > Criar um novo produto:
 ```
 POST:
-{{ baseUrl  }}/products
+{{ baseUrl }}/products
 ```
 ```
 {
